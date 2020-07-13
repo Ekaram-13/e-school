@@ -1,0 +1,133 @@
+.navbar .navbar-brand img {
+    height: 60px;
+}
+#nav-section, #top-banner {
+    background: #F0FFF0;
+}
+.navbar .nav-item .sign-in {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #21B573;
+    font-weight: 500;
+    border: 2px solid #21B573;
+    padding: 5px 10px;
+    border-radius: 40px;
+}
+
+.navbar .nav-item .sign-in:hover{
+    transform: scale(1.05);
+    background: transparent;
+    color: black;
+    transition: all 0.5s ease-in-out;
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+h4{
+    font-size: medium;
+}
+.h5{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.top-heighlight{
+    color: #21B573;
+}
+.sub-btn{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #21B573;
+    font-weight: 500;
+    border: 2px solid #21B573;
+    padding: 10px 20px;
+    border-radius: 40px;
+}
+.sub-btn:hover{
+    transform: scale(1.05);
+    background: transparent;
+    color: black;
+    transition: all 0.5s ease-in-out;
+}
+.topics img, .active-hover img{
+    height: 75px;
+    margin-bottom: 20px;
+}
+.topics{
+    text-align: center;
+    margin: 0px 0px 20px;
+    padding: 20px;
+    background-color: rgb(193, 248, 193);
+    width: 270px;
+    height: 200px;
+    left: 435px;
+    top: 618px; 
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.active-hover{
+    box-shadow: 0px 0px 20px lightgray;
+    background-color: #fff;
+    transition: 0.5s;
+    text-align: center;
+    margin: 0px 0px 20px;
+    padding: 20px;
+    width: 270px;
+    height: 200px;
+    left: 435px;
+    top: 618px; 
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.active-hover:hover{
+    box-shadow: none;
+    background-color: rgb(193, 248, 193);
+}
+.topics:hover{
+    box-shadow: 0px 0px 20px lightgray;
+    background-color: #fff;
+}
+.card{
+    box-shadow: 0px 0px 20px lightgrey;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.card .card-img-top {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.card-botton{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.card-botton img{
+    height: 25px;
+    
+}
+#Testimonial img {
+    width: 70%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+p{
+    font-weight: 600;
+}
+#footer {
+    background-color: #282531;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+#footer h3 {
+    font-weight: bold;
+    text-align: left;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
