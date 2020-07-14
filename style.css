@@ -15,7 +15,6 @@
     display: block;
     display: inline-block;
 }
-
 .navbar .nav-item .sign-in:hover{
     transform: scale(1.05);
     background: transparent;
@@ -63,10 +62,10 @@ h4{
     margin: 0px 0px 20px;
     padding: 20px;
     background-color: rgb(193, 248, 193);
-    width: 270px;
+    /* width: 270px;
     height: 200px;
     left: 435px;
-    top: 618px; 
+    top: 618px;  */
     border-radius: 10px;
     transition: 0.5s;
 }
@@ -77,10 +76,10 @@ h4{
     text-align: center;
     margin: 0px 0px 20px;
     padding: 20px;
-    width: 270px;
+    /* width: 270px;
     height: 200px;
     left: 435px;
-    top: 618px; 
+    top: 618px;  */
     border-radius: 10px;
     transition: 0.5s;
 }
@@ -107,8 +106,7 @@ h4{
     padding-left: 20px;
 }
 .card-botton img{
-    height: 25px;
-    
+    height: 25px;  
 }
 #Testimonial img {
     width: 70%;
